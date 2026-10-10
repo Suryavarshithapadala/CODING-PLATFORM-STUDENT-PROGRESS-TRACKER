@@ -1,0 +1,13 @@
+F101|Abhilash|abhilash@gmail.com|AIML|Data Structures|CS201|
+F102|Dr. Lakshmi Narayan|lakshmi.narayan@gmail.com|CSE|Design & Analysis of Algorithms|CS301|
+F103|Prof. Ramesh Kulkarni|ramesh.kulkarni@gmail.com|CSE|Database Management Systems|CS305|
+F104|Dr. Sunita Menon|sunita.menon@gmail.com|AIML|Machine Learning|AI302|
+F105|Prof. Harish Patel|harish.patel@gmail.com|IT|Web Technologies|IT210|
+F106|Dr. Meenakshi Sundaram|meenakshi.s@gmail.com|IT|Computer Networks|IT305|
+F107|Prof. Anil Deshmukh|anil.deshmukh@gmail.com|ECE|Digital Signal Processing|EC303|
+F108|Dr. Farah Khan|farah.khan@gmail.com|ECE|Embedded Systems|EC401|
+F109|Prof. Venkat Subramanian|venkat.s@gmail.com|ME|Numerical Methods|ME205|
+F110|Dr. Rekha Balan|rekha.balan@gmail.com|ME|Engineering Mathematics|MA201|
+F111|Prof. Sandeep Joshi|sandeep.joshi@gmail.com|CSE|Operating Systems|CS303|
+F112|Dr. Pallavi Rao|pallavi.rao@gmail.com|AIML|Deep Learning|AI401|
+F113|Radha|radha@gmail.com|CSE|C lan|CS202|8989898989

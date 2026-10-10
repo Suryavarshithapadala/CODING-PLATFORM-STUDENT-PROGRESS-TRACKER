@@ -1,0 +1,3 @@
+101|Two Sum|Easy|1
+102|SUM|EASY|1001
+103|SUM OF 3 num|easy|1

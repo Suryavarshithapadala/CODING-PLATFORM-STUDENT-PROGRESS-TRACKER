@@ -1,0 +1,196 @@
+CAMPUS CODETRACK - STUDENT PROGRESS REVIEW (ranked by CGPA)
+Generated on: 2026-10-04
+==================================================
+
+Rank        : 1
+Student     : Bunny
+ID          : 26B21AI001
+Department  : AIML (Year 2)
+CGPA        : 9.90
+Timetable   : Timetable 2 (8:30 AM - 3:20 PM, Lab: Tuesday)
+Assigned    : 1
+Accepted    : 1
+Under Review: 0
+Overdue     : 0
+Progress    : 100.00%
+
+Rank        : 2
+Student     : Jatayu
+ID          : 25B11CS504
+Department  : CSE (Year 1)
+CGPA        : 9.60
+Timetable   : Timetable 1 (8:30 AM - 3:20 PM, Lab: Monday)
+Assigned    : 1
+Accepted    : 0
+Under Review: 0
+Overdue     : 0
+Progress    : 0.00%
+
+Rank        : 3
+Student     : Lakshman
+ID          : 25B11CS502
+Department  : CSE (Year 2)
+CGPA        : 9.35
+Timetable   : Timetable 5 (9:30 AM - 4:20 PM, Lab: Friday)
+Assigned    : 1
+Accepted    : 0
+Under Review: 0
+Overdue     : 1
+Progress    : 0.00%
+
+Rank        : 4
+Student     : Rama
+ID          : 25B11AI586
+Department  : AIML (Year 2)
+CGPA        : 9.12
+Timetable   : Timetable 5 (9:30 AM - 4:20 PM, Lab: Friday)
+Assigned    : 2
+Accepted    : 1
+Under Review: 1
+Overdue     : 0
+Progress    : 50.00%
+
+Rank        : 5
+Student     : Yudi
+ID          : 25B11IT701
+Department  : IT (Year 2)
+CGPA        : 9.05
+Timetable   : Timetable 6 (9:30 AM - 4:20 PM, Lab: Monday)
+Assigned    : 1
+Accepted    : 1
+Under Review: 0
+Overdue     : 0
+Progress    : 100.00%
+
+Rank        : 6
+Student     : Bharath
+ID          : 25B11AI587
+Department  : AIML (Year 2)
+CGPA        : 8.90
+Timetable   : Timetable 5 (9:30 AM - 4:20 PM, Lab: Friday)
+Assigned    : 1
+Accepted    : 1
+Under Review: 0
+Overdue     : 0
+Progress    : 100.00%
+
+Rank        : 7
+Student     : Krishna
+ID          : 25B11EC601
+Department  : ECE (Year 2)
+CGPA        : 8.72
+Timetable   : Timetable 3 (9:00 AM - 4:00 PM, Lab: Wednesday)
+Assigned    : 1
+Accepted    : 0
+Under Review: 1
+Overdue     : 0
+Progress    : 0.00%
+
+Rank        : 8
+Student     : Nakul
+ID          : 25B11AI589
+Department  : AIML (Year 3)
+CGPA        : 8.60
+Timetable   : Timetable 8 (10:00 AM - 5:00 PM, Lab: Wednesday)
+Assigned    : 1
+Accepted    : 0
+Under Review: 0
+Overdue     : 0
+Progress    : 0.00%
+
+Rank        : 9
+Student     : Sita
+ID          : 25B11CS501
+Department  : CSE (Year 2)
+CGPA        : 8.45
+Timetable   : Timetable 6 (9:30 AM - 4:20 PM, Lab: Monday)
+Assigned    : 1
+Accepted    : 1
+Under Review: 0
+Overdue     : 0
+Progress    : 100.00%
+
+Rank        : 10
+Student     : Karna
+ID          : 25B11ME801
+Department  : ME (Year 4)
+CGPA        : 8.30
+Timetable   : Timetable 9 (11:00 AM - 6:00 PM, Lab: Thursday)
+Assigned    : 1
+Accepted    : 0
+Under Review: 0
+Overdue     : 0
+Progress    : 0.00%
+
+Rank        : 11
+Student     : Arjun
+ID          : 25B11AI588
+Department  : AIML (Year 1)
+CGPA        : 8.15
+Timetable   : Timetable 1 (8:30 AM - 3:20 PM, Lab: Monday)
+Assigned    : 1
+Accepted    : 0
+Under Review: 0
+Overdue     : 0
+Progress    : 0.00%
+
+Rank        : 12
+Student     : Shatrughna
+ID          : 25B11CS505
+Department  : CSE (Year 4)
+CGPA        : 8.05
+Timetable   : Timetable 9 (11:00 AM - 6:00 PM, Lab: Thursday)
+Assigned    : 0
+Accepted    : 0
+Under Review: 0
+Overdue     : 0
+Progress    : N/A (nothing assigned)
+
+Rank        : 13
+Student     : Hanuman
+ID          : 25B11CS503
+Department  : CSE (Year 3)
+CGPA        : 7.80
+Timetable   : Timetable 7 (10:00 AM - 5:00 PM, Lab: Tuesday)
+Assigned    : 1
+Accepted    : 0
+Under Review: 0
+Overdue     : 0
+Progress    : 0.00%
+
+Rank        : 14
+Student     : Draupadi
+ID          : 25B11IT702
+Department  : IT (Year 1)
+CGPA        : 7.60
+Timetable   : Timetable 2 (8:30 AM - 3:20 PM, Lab: Tuesday)
+Assigned    : 1
+Accepted    : 0
+Under Review: 0
+Overdue     : 0
+Progress    : 0.00%
+
+Rank        : 15
+Student     : Sahadev
+ID          : 25B11EC603
+Department  : ECE (Year 1)
+CGPA        : 7.10
+Timetable   : Timetable 2 (8:30 AM - 3:20 PM, Lab: Tuesday)
+Assigned    : 0
+Accepted    : 0
+Under Review: 0
+Overdue     : 0
+Progress    : N/A (nothing assigned)
+
+Rank        : 16
+Student     : Duryan
+ID          : 25B11ME802
+Department  : ME (Year 3)
+CGPA        : 6.95
+Timetable   : Timetable 7 (10:00 AM - 5:00 PM, Lab: Tuesday)
+Assigned    : 1
+Accepted    : 0
+Under Review: 0
+Overdue     : 0
+Progress    : 0.00%
+

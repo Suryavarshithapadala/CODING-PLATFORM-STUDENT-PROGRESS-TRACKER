@@ -1,0 +1,9 @@
+1|25B11AI586|101|1|https://leetcode.com/submissions/detail/1001/|2026-09-12|Accepted
+2|25B11AI586|103|1|https://leetcode.com/submissions/detail/1002/|2026-09-18|Pending
+3|25B11AI587|101|1|https://leetcode.com/submissions/detail/1003/|2026-09-14|Accepted
+4|25B11CS501|106|1|https://leetcode.com/submissions/detail/1004/|2026-09-16|Accepted
+5|25B11CS502|107|1|https://leetcode.com/submissions/detail/1005/|2026-09-08|Rejected
+6|25B11IT701|110|3|https://www.hackerrank.com/challenges/solve-me-first/submissions/code/1006|2026-09-15|Accepted
+7|25B11EC601|121|2|https://www.codechef.com/viewsolution/1007|2026-09-17|In Progress
+8|26B21AI001|121|2|https://www.codechef.com/viewsolution/1368901014|2026-10-04|Pending
+9|26B21AI001|121|2|https://www.codechef.com/problems/FLOW001|2026-10-04|Accepted

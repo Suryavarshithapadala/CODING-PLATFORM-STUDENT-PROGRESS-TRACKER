@@ -1,0 +1,4 @@
+Admin|201|Tripura|tripuraA|5678|Computer Science|System Administrator
+Faculty|501|Varshitha|varshithaF|1234|CSE|Professor
+Student|301|Satya|satyaS|0987|CSE|2
+Student|302|Veeresh|veereshS|1122|CSE|2

@@ -1,0 +1,29 @@
+﻿{
+    "tasks":  [
+                  {
+                      "type":  "cppbuild",
+                      "label":  "Build Campus CodeTrack",
+                      "command":  "C:/MinGW/bin/g++.exe",
+                      "args":  [
+                                   "-fdiagnostics-color=always",
+                                   "-g",
+                                   "-std=c++17",
+                                   "${workspaceFolder}/CampusCodeTrack.cpp",
+                                   "-o",
+                                   "${workspaceFolder}/CampusCodeTrack.exe"
+                               ],
+                      "options":  {
+                                      "cwd":  "${workspaceFolder}"
+                                  },
+                      "problemMatcher":  [
+                                             "$gcc"
+                                         ],
+                      "group":  {
+                                    "kind":  "build",
+                                    "isDefault":  true
+                                },
+                      "detail":  "Build the Campus CodeTrack roster and practice portal."
+                  }
+              ],
+    "version":  "2.0.0"
+}
